@@ -1,5 +1,13 @@
 [
   {
+    "package": "EMMAgeo",
+    "oncran": true
+  },
+  {
+    "package": "eseis",
+    "oncran": true
+  },
+  {
     "package": "sandbox",
     "oncran": true
   }
